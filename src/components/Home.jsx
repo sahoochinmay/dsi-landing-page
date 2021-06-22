@@ -17,7 +17,7 @@ const Home = () => {
               experience and impressive track records
             </p>
 
-            <a href="#">Read More please</a>
+            <a href="#">Read More</a>
           </div>
           <div className="headerImage rowRight">
             <img className="img-fluid" src={img1} alt="" srcset="" />
