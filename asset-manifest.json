@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dsi-landing-page/static/css/main.bf576fcf.chunk.css",
-    "main.js": "/dsi-landing-page/static/js/main.700047e8.chunk.js",
-    "main.js.map": "/dsi-landing-page/static/js/main.700047e8.chunk.js.map",
-    "runtime-main.js": "/dsi-landing-page/static/js/runtime-main.ad9016f9.js",
-    "runtime-main.js.map": "/dsi-landing-page/static/js/runtime-main.ad9016f9.js.map",
-    "static/js/2.e40e87f0.chunk.js": "/dsi-landing-page/static/js/2.e40e87f0.chunk.js",
-    "static/js/2.e40e87f0.chunk.js.map": "/dsi-landing-page/static/js/2.e40e87f0.chunk.js.map",
-    "static/js/3.66c9d9da.chunk.js": "/dsi-landing-page/static/js/3.66c9d9da.chunk.js",
-    "static/js/3.66c9d9da.chunk.js.map": "/dsi-landing-page/static/js/3.66c9d9da.chunk.js.map",
+    "main.css": "/dsi-landing-page/static/css/main.91fbfc1e.chunk.css",
+    "main.js": "/dsi-landing-page/static/js/main.245c1344.chunk.js",
+    "main.js.map": "/dsi-landing-page/static/js/main.245c1344.chunk.js.map",
+    "runtime-main.js": "/dsi-landing-page/static/js/runtime-main.78aef897.js",
+    "runtime-main.js.map": "/dsi-landing-page/static/js/runtime-main.78aef897.js.map",
+    "static/js/2.e8e618ea.chunk.js": "/dsi-landing-page/static/js/2.e8e618ea.chunk.js",
+    "static/js/2.e8e618ea.chunk.js.map": "/dsi-landing-page/static/js/2.e8e618ea.chunk.js.map",
+    "static/js/3.0f43e032.chunk.js": "/dsi-landing-page/static/js/3.0f43e032.chunk.js",
+    "static/js/3.0f43e032.chunk.js.map": "/dsi-landing-page/static/js/3.0f43e032.chunk.js.map",
     "index.html": "/dsi-landing-page/index.html",
-    "static/css/main.bf576fcf.chunk.css.map": "/dsi-landing-page/static/css/main.bf576fcf.chunk.css.map",
-    "static/js/2.e40e87f0.chunk.js.LICENSE.txt": "/dsi-landing-page/static/js/2.e40e87f0.chunk.js.LICENSE.txt",
-    "static/media/bar.ed36df24.svg": "/dsi-landing-page/static/media/bar.ed36df24.svg",
+    "static/css/main.91fbfc1e.chunk.css.map": "/dsi-landing-page/static/css/main.91fbfc1e.chunk.css.map",
+    "static/js/2.e8e618ea.chunk.js.LICENSE.txt": "/dsi-landing-page/static/js/2.e8e618ea.chunk.js.LICENSE.txt",
+    "static/media/bar.0b30933c.svg": "/dsi-landing-page/static/media/bar.0b30933c.svg",
     "static/media/cogwheel.081aa29d.svg": "/dsi-landing-page/static/media/cogwheel.081aa29d.svg",
     "static/media/company.f63a9652.svg": "/dsi-landing-page/static/media/company.f63a9652.svg",
     "static/media/img1.1a1cece6.svg": "/dsi-landing-page/static/media/img1.1a1cece6.svg",
@@ -22,9 +22,9 @@
     "static/media/verified.4554c475.svg": "/dsi-landing-page/static/media/verified.4554c475.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad9016f9.js",
-    "static/js/2.e40e87f0.chunk.js",
-    "static/css/main.bf576fcf.chunk.css",
-    "static/js/main.700047e8.chunk.js"
+    "static/js/runtime-main.78aef897.js",
+    "static/js/2.e8e618ea.chunk.js",
+    "static/css/main.91fbfc1e.chunk.css",
+    "static/js/main.245c1344.chunk.js"
   ]
 }
