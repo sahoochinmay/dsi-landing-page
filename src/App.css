@@ -85,7 +85,7 @@ nav .navbar-nav .nav-item::before {
           transform: translateX(-50%);
   width: 0%;
   height: 0.20rem;
-  background: #EE4248;
+  background: #47C8E3;
   margin: auto auto;
   -webkit-transition: 0.3s linear;
   transition: 0.3s linear;
@@ -178,7 +178,7 @@ label #cancel {
   font-size: 4.2rem;
   font-weight: bold;
   margin: 1rem 0;
-  color: #EE4248;
+  color: #094D94;
 }
 .headerText p {
   padding-top: 2rem;
@@ -187,7 +187,7 @@ label #cancel {
 }
 .headerText a {
   display: inline-block;
-  background: #EE4248;
+  background: #094D94;
   padding: 1.2rem 2.5rem;
   color: white;
   font-weight: lighter;
@@ -213,7 +213,7 @@ label #cancel {
   padding: 0 30px;
 }
 .about span {
-  color: #EE4248;
+  color: #094D94;
 }
 
 .about h2 {
@@ -240,10 +240,12 @@ label #cancel {
 }
 
 .service .serviceBox {
+  text-align: center;
   padding: 2rem 1rem;
 }
 
 .service .serviceBox .iconHolder {
+  
   margin: 2rem 0;
   border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
   background: rgba(128, 128, 128, 0.3);
@@ -255,7 +257,7 @@ label #cancel {
 }
 
 .service .serviceBox h2 {
-  color: #EE4248;
+  color: #094D94;
   font-size: 3rem;
 }
 
@@ -266,7 +268,7 @@ label #cancel {
 
 .service .serviceBox a {
   display: inline-block;
-  background: #EE4248;
+  background: #094D94;
   padding: 1.2rem 2.5rem;
   color: white;
   font-weight: lighter;
@@ -277,7 +279,7 @@ label #cancel {
 }
 
 .service .serviceBox:hover .iconHolder {
-  background: #EE4248;
+  background: #47C8E3;
 }
 
 .service .serviceBox:hover {
@@ -318,7 +320,7 @@ label #cancel {
   padding: 4rem 0 0 0;
   width: 100%;
   height: auto;
-  background: #EE4248;
+  background: #094D94;
   position: relative;
   margin-top: 45px;
 }
@@ -359,7 +361,7 @@ label #cancel {
     font-size: 3.2rem;
     font-weight: bold;
     margin: 1rem 0;
-    color: #EE4248;
+    color: #094D94;
   }
   .headerText p {
     padding-top: 1rem;
@@ -368,7 +370,7 @@ label #cancel {
   }
   .headerText a {
     display: inline-block;
-    background: #EE4248;
+    background: #094D94;
     padding: 1.2rem 2.5rem;
     color: white;
     font-weight: lighter;
