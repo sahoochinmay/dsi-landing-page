@@ -5,7 +5,7 @@ import cogWheel from '../assets/images/cogwheel.svg'
 
 const Product = () => {
   return (
-    <section className="container service">
+    <section className="container service " id="products">
       <h3>Product and Service</h3>
         <div className="threeRow">
             <div className="serviceBox rowLeft">
@@ -17,7 +17,6 @@ const Product = () => {
                 Our product is made on the base of our team's careful research
                 and analyses, ranging from internet based application.
               </p>
-              <a href="#">Read More</a>
             </div>
             <div className="serviceBox rowMiddle">
               <div className="iconHolder">
@@ -29,7 +28,6 @@ const Product = () => {
                 software development, designed specifically for the banking and
                 financial sectors.
               </p>
-              <a href="#">Read More</a>
             </div>
             <div className="serviceBox rowRight">
               <div className="iconHolder">
@@ -41,7 +39,6 @@ const Product = () => {
                 worldwide, and on billions of devices worldwide, including
                 mobile and TV devices.
               </p>
-              <a href="#">Read More</a>
             </div>
         </div>
     </section>

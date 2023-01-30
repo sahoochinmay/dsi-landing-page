@@ -6,11 +6,11 @@ const About = () => {
       <section className="container about">
         <div className="aboutRow">
             <div className="aboutImage rowLeft">
-              <img className="img-fluid" src={img2} alt="" srcset="" />
+              <img className="img-fluid" src={img2} alt="" srcSet="" />
             </div>
             <div className="aboutText rowRight">
               <h2>
-                Welcome to <span>Dwidasa Samara Indonesia (DSI)</span>
+                Welcome to <span>Wiser Global Communication (WGC)</span>
               </h2>
               <p>
                 Dwidasa Samara Indonesia (DSI) was first established in 2010 by

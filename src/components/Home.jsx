@@ -17,10 +17,10 @@ const Home = () => {
               experience and impressive track records
             </p>
 
-            <a href="#">Read More</a>
+            <a href="#">Contact Us</a>
           </div>
           <div className="headerImage rowRight">
-            <img className="img-fluid" src={img1} alt="" srcset="" />
+            <img className="img-fluid" src={img1} alt="" srcSet="" />
           </div>
       </div>
     </div>
